@@ -1,2 +1,3 @@
 # ya
-i add a headers '<H1>' saying: ya
+i add a headers '<h 1>' saying: ya
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
